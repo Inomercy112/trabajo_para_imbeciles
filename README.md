@@ -1,1 +1,7 @@
-# trabajo_para_imbeciles
+Dependencias Spring:
+Spring web: manejar peticiones Rest
+lombok: reducir codigo no escribir gett y setter de forma manual
+JPA: ORM conexion con base de datos
+MS SQL Server Driver: realizar conexion de la base de datos
+Spring Security: para aplicar seguridad de los cors= configuracion de transpasos de datos
+
